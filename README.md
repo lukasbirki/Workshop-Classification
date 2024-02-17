@@ -1,4 +1,4 @@
-# Cross-lingual supervised text classification
+# Multi-class and Multi-label Text Classification in Python
 
 
 <center>
