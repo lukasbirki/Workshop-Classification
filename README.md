@@ -16,8 +16,9 @@ Below, you find the links to the data and interactive Google Colab notebooks I u
 
 | Link | Description |
 |:---- |:----- |
-| [Slides](https://drive.google.com/file/d/1dvEh-p-uOPciJSe56Wqg25ji6S9kK_HQ/view?usp=sharing) | This is the link to the pdf slides  |
-| [notebook](https://github.com/lukasbirki/Workshop-Classification/blob/main/Course_Classification.ipynb) | This notebook contains all the necessary code |
+| [Slides](https://github.com/lukasbirki/Workshop-Classification/blob/main/slides/slides_classification.pdf) | This is the link to the pdf slides  |
+| [Notebook Multi-Class Classification](https://colab.research.google.com/github/lukasbirki/Workshop-Classification/blob/main/Multi-Class%20Classification.ipynb) | This notebook contains all the necessary code on how to conduct Multi-class Classification|
+| [Notebook Multi-Label Classification](https://colab.research.google.com/github/lukasbirki/Workshop-Classification/blob/main/Multi-Label%20Classification.ipynb) | This notebook contains all the necessary code on how to conduct Multi-label Classification|
 
 
 *Note:* If you haven't worked with Google Colab notebooks before, check out [this](https://colab.research.google.com/?utm_source=scs-index) short tutorial
